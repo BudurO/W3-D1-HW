@@ -1,0 +1,26 @@
+.btn-primary{
+    background-color: #754ffe !important;
+    border: #754ffe !important;
+}
+
+
+.py-12{
+    padding-top: 9.5rem !important;
+    padding-bottom: 9.5rem !important;
+}
+.bg-gray{
+    background-color: #e2e8f0;
+}
+.Course{
+    color: #754ffe;
+}
+.Name-James-Davies{
+    background-color: #e2e8f0;
+    width: 100px;
+    height: 100px;
+}
+@media screen and (min-width: 768px){
+    .section-JavaScript-Developer{
+        padding-top: 2rem;
+    }
+}
